@@ -4,10 +4,18 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=Mohanapriya-A&color=blueviolet)
 
+## 🙋‍♀️ About Me
+-👩‍💻 I'm a passionate Computer Science Engineering student at Manakula Vinayagar Institute of Technology – Puducherry.
+-🧠 I enjoy solving real-world problems through coding and have completed 800+ challenges on SkillRack.
+-🌐 I’m an aspiring full stack developer, constantly exploring both frontend and backend technologies.
+-📘 Currently learning Java to strengthen my backend development skills.
+
+
 ## 🔨 What I'm Currently Working On
-- Currently designing an e-commerce recommendation system portfolio with an intuitive UI/UX using Figma.
-- Currently building a study planner website using HTML, CSS, and JavaScript.
-- project based on Java.
+-🎨 Currently designing an e-commerce recommendation system portfolio with an intuitive UI/UX using Figma.
+-🛠️ Currently building a study planner website using HTML, CSS, and JavaScript.
+-☕ Working on a project based on Java, focusing on core concepts and backend logic development.
+
 
 ## 🏅 Certifications and Achievements
 - Diploma in Python – CSN Infotech (https://drive.google.com/file/d/17iOM7xh-WfEHNc0zC98lIXFiJ1sfei7M/view?usp=drive_link)
