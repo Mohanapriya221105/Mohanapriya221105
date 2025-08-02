@@ -6,8 +6,11 @@
 
 ## 🙋‍♀️ About Me
 -👩‍💻 I'm a passionate Computer Science Engineering student at Manakula Vinayagar Institute of Technology – Puducherry.
+
 -🧠 I enjoy solving real-world problems through coding and have completed 800+ challenges on SkillRack.
+
 -🌐 I’m an aspiring full stack developer, constantly exploring both frontend and backend technologies.
+
 -📘 Currently learning Java to strengthen my backend development skills.
 
 
