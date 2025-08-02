@@ -21,7 +21,7 @@
 
 ## 🔥 GitHub Activity
 <p align="center">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=Kalaiselvi-A&theme=react-dark&hide_border=false&area=true](https://github.com/opencv/opencv))" />
+  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=Mohanapriya-A&theme=react-dark&hide_border=false&area=true](https://github.com/opencv/opencv))" />
 </p>
 
 ## 💡 Favorite Quote
