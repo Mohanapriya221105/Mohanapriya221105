@@ -21,9 +21,10 @@
 
 ## 🔥 GitHub Activity
 <p align="center">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=Mohanapriya-A&theme=react-dark&hide_border=false&area=true](https://github.com/opencv/opencv))" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohanapriya221105&show_icons=true&theme=default" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohanapriya221105&theme=github-light&hide_border=false&area=true" />
 </p>
-
 ## 💡 Favorite Quote
 "Success is not final, failure is not fatal: It is the courage to continue that counts." – Winston Churchill
 
