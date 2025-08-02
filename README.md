@@ -16,7 +16,9 @@
 
 ## 🔨 What I'm Currently Working On
 -🎨 Currently designing an e-commerce recommendation system portfolio with an intuitive UI/UX using Figma.
+
 -🛠️ Currently building a study planner website using HTML, CSS, and JavaScript.
+
 -☕ Working on a project based on Java, focusing on core concepts and backend logic development.
 
 
