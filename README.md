@@ -59,7 +59,7 @@ A computer vision-based system that translates sign language gestures into reada
 - **Features**: Real-time hand gesture detection, gesture classification, sign-to-text conversion
 
 
-###3. Personal Portfolio Website (Designed in Figma)
+### 3. Personal Portfolio Website (Designed in Figma)
 A visually appealing and responsive portfolio UI designed in Figma to showcase projects, skills, and contact information.
 - **Tools**: Figma, UI/UX Design Principles
 - **Features**: Modern layout, interactive prototype, project cards, skill sections, and contact form
@@ -77,6 +77,7 @@ A visually appealing and responsive portfolio UI designed in Figma to showcase p
 - "Mohanapriya is a highly motivated and detail-oriented developer with a strong grasp of both frontend and backend technologies. Her hands-on experience with real-world projects and consistent problem-solving on platforms like LeetCode and Skillrack reflect her passion for learning and growth."
   
 ## 📚 Currently Learning
-📚 Currently Learning
+
 -Java Full Stack Development
+
 -Database Management and SQL
