@@ -48,36 +48,35 @@
 [Resume PDF](https://drive.google.com/file/d/19J7-vmr3lpYwu2oFx4OlwcIQksZ_EBxv/view?usp=drive_link)
 
 ## 🌟 Key Projects
-### 1. Network Intrusion Detection System (NIDS)
-A Django-based system designed to detect and alert on network intrusions using signature-based and anomaly-based detection techniques. 
-- **Technologies**: Python, Django, Machine Learning (TensorFlow), PyShark
-- **Features**: Packet capture, analysis, and intrusion detection.
-- **Live Demo**: [Demo Link](https://github.com/Kalaiselvi-A/NIDS-Demo)
+### 1. Obstacle Avoiding Car (Micro Project)
+An autonomous robotic car built using Arduino that detects and avoids obstacles in real-time using IR sensors.
+- **Technologies/Tools**: Arduino Uno, IR Sensors, L298N Motor Driver, Embedded C
+- **Features**: Real-time obstacle detection, automatic rerouting, motor control via L298N
   
-### 2. AI-Powered E-Commerce Recommendation System
-An e-commerce platform using AI-based recommendation algorithms to personalize user experiences.
-- **Technologies**: Python, TensorFlow, Django, Bootstrap
-- **Features**: User authentication, product recommendation, real-time data analysis.
-- **Live Demo**: [Demo Link](https://github.com/Kalaiselvi-A/ECommerce-AI)
+### 2. Sign Language Translation Using Computer Vision
+A computer vision-based system that translates sign language gestures into readable text using machine learning and hand tracking techniques.
+- **Technologies**: Python, OpenCV, MediaPipe, PyTorch
+- **Features**: Real-time hand gesture detection, gesture classification, sign-to-text conversion
 
-### 3. Face Recognition-Based Online Attendance System
-A deep-learning-powered face recognition system for automating attendance.
-- **Technologies**: Python, OpenCV, TensorFlow, Flask
-- **Features**: Face detection, recognition, and attendance marking.
-- **Live Demo**: [Demo Link](https://github.com/Kalaiselvi-A/FaceRecognition-Attendance)
+
+###3. Personal Portfolio Website (Designed in Figma)
+A visually appealing and responsive portfolio UI designed in Figma to showcase projects, skills, and contact information.
+- **Tools**: Figma, UI/UX Design Principles
+- **Features**: Modern layout, interactive prototype, project cards, skill sections, and contact form
+- **Live Demo**: [Demo Link]([https://github.com/Kalaiselvi-A/FaceRecognition-Attendance](https://www.figma.com/proto/4odGnjbDzfwdZPDQ4LBaJV/Untitled?node-id=1-2&p=f&t=lccXgrq42LA01mvJ-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2))
 
 ## 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Html](https://img.shields.io/badge/Html-092E20?style=for-the-badge&logo=Html&logoColor=white)
+![C](https://img.shields.io/badge/C-6DB33F?style=for-the-badge&logo=C&logoColor=white)
+![Css](https://img.shields.io/badge/Css-FF6F00?style=for-the-badge&logo=Css&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 💬 Testimonials
-- "Kalaiselvi is a dedicated and talented developer with a keen eye for detail." – Mentor, TNS India Foundation.
+- "Mohanapriya is a highly motivated and detail-oriented developer with a strong grasp of both frontend and backend technologies. Her hands-on experience with real-world projects and consistent problem-solving on platforms like LeetCode and Skillrack reflect her passion for learning and growth."
   
 ## 📚 Currently Learning
-- TensorFlow for Deep Learning
-- Advanced Microservices with Spring Boot
+📚 Currently Learning
+-Java Full Stack Development
+-Database Management and SQL
